@@ -1,6 +1,6 @@
 {
   "name": "chat_restapi",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "main": "db/server.js",
   "scripts": {
     "start": "nodemon --watch db/server.js",
