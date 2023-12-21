@@ -29,9 +29,9 @@ app.use(session({
 
 // Passport 초기화 및 세션 사용
 app.use(kakaoPassport.initialize());
-//app.use(NaverPassport.initialize());
+app.use(NaverPassport.initialize());
 app.use(kakaoPassport.session());
-//app.use(NaverPassport.session());
+app.use(NaverPassport.session());
 
 const chatRouter = require("../router/chat"); //    ../router/chat.js
 const roomRouter = require("../router/room"); //  ../router/room.js
