@@ -16,7 +16,7 @@ passport.use(
       clientID: process.env.KAKAO_ID,
       clientSecret: process.env.KAKAO_CLIENT_SECRET,
       callbackURL: 'http://localhost:4200/auth/kakao/callback',
-      prompt: 'login'
+      prompt: 'login' // 이미 저장된 계정 재로그인됨
     },
     async (accessToken, refreshToken, profile, done) => {
       try {
