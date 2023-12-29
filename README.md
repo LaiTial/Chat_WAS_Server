@@ -1,9 +1,42 @@
-## 반려동물을 키우는 사람들을 위해 다양한 정보를 제공하는 챗봇
+# Pet Assistant Bot
+        서경대학교 소프트웨어학과 졸업작품
+        SW 인재교육 참여기업 오브젠에서 제안 
+        자연어 처리(NLP)를 사용한 챗봇 만들기.
+![temp_4](https://github.com/LaiTial/Chat/assets/39575609/060cc7f1-21f1-4a38-b8a8-103519465dc4)
 
-- 강아지, 고양이를 비롯해 다양한 동물들이 존재하며, 이를 키우려면 어떤 먹이를 먹어야 하고, 환경을 어떻게 해야 하는지 등 준비해야 할 것과 알아야 할 것이 많다. 
-- 그리고 이를 일일이 다 찾아봐야 한다는 불편함이 존재한다. 
+## 프로젝트명
+#### PET Assistant Bot
+![temp_4](https://github.com/LaiTial/Chat/assets/39575609/ee5a25ef-329a-41c0-a6f8-e92039a09f41)
 
-- 우리의 챗봇은 사용자들이 반려동물의 건강, 사료, 행동, 훈련 등과 관련된 질문에 대답을 해주고, 조언을 제공할 것입니다. 
-- 또한, 예방접종 일정 관리, 건강한 식습관 및 운동 계획 등의 관리를 지원하여 사용자들이 반려동물을 더 잘 돌볼 수 있도록 돕습니다.
-- 사용자들이 손쉽게 접근하여 반려동물에 관한 궁금증을 해결하고, 보다 나은 돌봄 방법을 습득할 수 있도록 돕습니다. 
-- 또한, 사용자들의 반려동물에 대한 정보를 수집하여 보다 정확하고 개인화된 서비스를 제공하는 것이 목표입니다.
+## 프로젝트 소개
+#### 반려동물을 키우는 사람들을 위한 도움을 주는 챗봇의 WAS(Web Application Server)
+![temp_4](https://github.com/LaiTial/Chat/assets/39575609/46f3d7b3-262b-4fb3-a02b-7d591d0695b2)
+
+## 개발 기간
+2023.10.23 ~ 2023.12.27
+![temp_4](https://github.com/LaiTial/Chat/assets/39575609/569914a2-4999-4d71-a95e-cb8ee17e45a4)
+
+## 구현언어
+- Node.js
+![temp_4](https://github.com/LaiTial/Chat/assets/39575609/46f3d7b3-262b-4fb3-a02b-7d591d0695b2)
+
+ ## 사용 기술
+- MySQL
+- Passport로 소셜 로그인 처리
+- axios로 Flask 서버와 연결
+![temp_4](https://github.com/LaiTial/Chat/assets/39575609/d21fa01a-0168-44b2-b2bf-b47ab5a08ae3)
+                                      
+## 작품 구성도
+#### 1. 시퀀스 다이어그램
+<img src="https://github.com/LaiTial/Chat/assets/39575609/9f99d684-9d58-45fd-94e7-1adbe7a88cc4" alt="이미지 설명" width="600">
+<img src="https://github.com/LaiTial/Chat/assets/39575609/5c30fbe0-1a5d-4e2f-b54f-3bef148d16ef" alt="blank" width="700">
+
+
+
+
+
+
+
+
+
+
