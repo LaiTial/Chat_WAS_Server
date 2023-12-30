@@ -27,7 +27,7 @@
 ![temp_4](https://github.com/LaiTial/Chat/assets/39575609/d21fa01a-0168-44b2-b2bf-b47ab5a08ae3)
                                       
 ## 작품 구성도
-#### 1. 시퀀스 다이어그램
+#### 1. 채팅 전송 & 답변 받기
 <img src="https://github.com/LaiTial/Chat/assets/39575609/9f99d684-9d58-45fd-94e7-1adbe7a88cc4" alt="이미지 설명" width="600">
 <img src="https://github.com/LaiTial/Chat/assets/39575609/5c30fbe0-1a5d-4e2f-b54f-3bef148d16ef" alt="blank" width="700">
 
